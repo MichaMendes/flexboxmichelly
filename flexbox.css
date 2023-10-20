@@ -1,0 +1,109 @@
+.div1{
+    background-color:#63B1BC;
+    font-size: 50px;
+    width: 125px;
+    height:125px;
+   
+}
+.div2{
+    background-color: #1F2A44;
+    font-size: 50px;
+    width: 125px;
+    height:125px;
+    
+}
+.div3{
+    background-color: #ED145B;
+    font-size: 50px;
+    width: 125px;
+    height:125px;
+    
+}
+.div4{
+    background-color: #EFB661;
+    font-size: 50px;
+    width: 125px;
+    height:125px;
+    
+}
+
+.container{
+    display: flex;
+    height: flex;
+    width: flex;
+    margin: 10px;
+    background-color: gray;
+    text-align: center;
+    line-height: 125px;
+}
+.container2{
+    display: flex;
+    height: flex;
+    width: flex;
+    margin: 10px;
+    background-color: gray;
+    justify-content: flex-end;
+    text-align: center;
+    line-height: 125px;
+}
+.container3{
+    display: flex;
+    height: flex;
+    width: flex;
+    margin: 10px;
+    background-color: gray;
+    justify-content: center;
+    text-align: center;
+    line-height: 125px;
+}
+.container4{
+    display: flex;
+    height: flex;
+    width: flex;
+    margin: 10px;
+    background-color: gray;
+    justify-content: space-between;
+    text-align: center;
+    line-height: 125px;
+}
+.container5{
+    display: flex;
+    height: flex;
+    width: flex;
+    margin: 10px;
+    background-color: gray;
+    justify-content: space-around;
+    text-align: center;
+    line-height: 125px;
+}
+.container6{
+    display: flex;
+    height: flex;
+    width: flex;
+    margin: 10px;
+    background-color: gray;
+    justify-content: space-evenly;
+    text-align: center;
+    line-height: 125px;     
+}
+.container7{
+    display:flex;
+    height: flex;
+    width: flex;
+    margin: 10px;
+    background-color: gray;
+    line-height: 125px;     
+    text-align: center;
+  flex-direction: column-reverse;
+}
+.container8{
+    display:flex;
+    height: flex;
+    width: flex;
+    margin: 10px;
+    background-color: gray;
+    line-height: 125px;     
+    text-align: center;
+    justify-content: left;
+  flex-direction:row-reverse;
+}
